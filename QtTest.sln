@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtTest", "QtTest\QtTest.vcxproj", "{B7654BEE-21E0-42C9-9453-E1CC779F0116}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtTestApp", "QtTestApp\QtTestApp.vcxproj", "{9077C39D-4DB4-4904-B4CC-909B77FE47A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtTestN", "QtTestN\QtTestN.vcxproj", "{BB830462-82E3-43F1-808D-19BA32584ACC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtTestFormsApp", "QtTestFormsApp\QtTestFormsApp.vcxproj", "{71037E09-9143-484A-9634-B3BC461473F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7654BEE-21E0-42C9-9453-E1CC779F0116}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7654BEE-21E0-42C9-9453-E1CC779F0116}.Debug|Win32.Build.0 = Debug|Win32
+		{B7654BEE-21E0-42C9-9453-E1CC779F0116}.Release|Win32.ActiveCfg = Release|Win32
+		{B7654BEE-21E0-42C9-9453-E1CC779F0116}.Release|Win32.Build.0 = Release|Win32
+		{9077C39D-4DB4-4904-B4CC-909B77FE47A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9077C39D-4DB4-4904-B4CC-909B77FE47A5}.Debug|Win32.Build.0 = Debug|Win32
+		{9077C39D-4DB4-4904-B4CC-909B77FE47A5}.Release|Win32.ActiveCfg = Release|Win32
+		{9077C39D-4DB4-4904-B4CC-909B77FE47A5}.Release|Win32.Build.0 = Release|Win32
+		{BB830462-82E3-43F1-808D-19BA32584ACC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB830462-82E3-43F1-808D-19BA32584ACC}.Debug|Win32.Build.0 = Debug|Win32
+		{BB830462-82E3-43F1-808D-19BA32584ACC}.Release|Win32.ActiveCfg = Release|Win32
+		{BB830462-82E3-43F1-808D-19BA32584ACC}.Release|Win32.Build.0 = Release|Win32
+		{71037E09-9143-484A-9634-B3BC461473F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71037E09-9143-484A-9634-B3BC461473F2}.Debug|Win32.Build.0 = Debug|Win32
+		{71037E09-9143-484A-9634-B3BC461473F2}.Release|Win32.ActiveCfg = Release|Win32
+		{71037E09-9143-484A-9634-B3BC461473F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
